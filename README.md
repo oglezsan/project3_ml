@@ -1,4 +1,5 @@
 **Summary of Uber Fare Prediction Project**
+
 Objective:
 The project aimed to develop a predictive model for estimating Uber fares based on various factors, enhancing the pricing strategy and operational efficiency of ride-sharing services.
 
